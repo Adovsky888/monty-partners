@@ -12,7 +12,7 @@ Everything a Monty partner needs to start: ready-to-use copy, brand assets and f
 |---|---|
 | [promo-kit.md](promo-kit.md) | copy, scripts, posts, stories - ready to publish |
 | [assets.md](assets.md) | brand rules + what the files in `assets/` are |
-| [../assets/](../assets/) | the files themselves: logo, mark, story frames, end cards, QR, promo banners (SVG) + videos in `video/` |
+| [../assets/](../assets/) | the files themselves: logo, mark, story frames, end cards, QR, promo banners (SVG + PNG) + videos in `video/` |
 
 Start with [promo-kit.md](promo-kit.md) - positioning, ready-made copy and how to use it. Brand rules (colors, fonts, what not to touch) live in [assets.md](assets.md).
 

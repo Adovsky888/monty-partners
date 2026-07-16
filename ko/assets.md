@@ -2,7 +2,7 @@
 
 > # [🇷🇺 Русский](../ru/assets.md) · [🇬🇧 English](../en/assets.md) · 🇰🇷 한국어 · [🇨🇳 中文](../zh/assets.md) · [🇪🇸 Español](../es/assets.md)
 
-파트너 크리에이터용 브랜드 에셋: 정적 파일(SVG, RU / EN) + 완성 영상(`video/`, 최대 5개 언어).
+파트너 크리에이터용 브랜드 에셋: 정적 파일(SVG + 바로 쓰는 PNG, RU / EN) + 완성 영상(`video/`, 최대 5개 언어).
 
 **마크와 로고는 Monty 브랜드 팩에서 온 공식 파일입니다.** 합성물(스토리, 엔드카드, 캐러셀, QR)도 같은 실제 마크(원숭이 + 재생 버튼)로 만들었습니다. 임의로 만든 캐릭터는 없습니다.
 
@@ -74,15 +74,18 @@ PY
 ```
 (`pip3 install qrcode pillow` 필요)
 
-## SNS용 PNG 내보내기
+## SNS용 PNG
 
-SVG가 원본입니다 (Space Grotesk가 설치된 Figma에서 열기). PNG로:
+모든 `.svg` 옆에 같은 이름의 `.png`가 이미 있습니다 - 그걸 쓰세요. 인스타그램, 틱톡, 텔레그램과 대부분의 편집기는 SVG를 열지 못합니다.
+
+합성물(스토리 프레임, 엔드카드, 캐러셀, QR 카드, 프로모 배너)은 원래 크기로 렌더링됐습니다: `story-frame-en.png` = 1080×1920 등. 마크, 로고, 바나나는 확대했습니다(`mark.png` = 1024×1024, `logo-*.png` = 1880×560) - 프로필 사진과 인쇄에 충분합니다. SVG에 투명 배경이 있던 곳은 그대로 투명입니다.
+
+SVG는 수정용 원본입니다(Space Grotesk가 설치된 Figma에서 열기). SVG를 고친 뒤 PNG를 다시 만드세요:
 ```bash
-pip3 install cairosvg
-python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-en.svg', write_to='story-frame-en.png', output_width=1080)"
+scripts/svg2png.sh                      # 전체 에셋
+scripts/svg2png.sh assets/mark.svg      # 파일 하나
 ```
-Space Grotesk가 없으면 텍스트가 시스템 폰트로 대체됩니다. 내보내기 전에 폰트를 설치하거나 Figma에서 렌더링하세요.
-
+Chrome과 `brew install pngquant`가 필요합니다. Space Grotesk는 스크립트가 알아서 찾습니다.
 ---
 
 파트너 약관: monty.fast의 파트너 가입 페이지.

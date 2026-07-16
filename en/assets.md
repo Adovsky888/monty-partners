@@ -2,7 +2,7 @@
 
 > # [🇷🇺 Русский](../ru/assets.md) · 🇬🇧 English · [🇰🇷 한국어](../ko/assets.md) · [🇨🇳 中文](../zh/assets.md) · [🇪🇸 Español](../es/assets.md)
 
-Brand assets for partner creators: statics (SVG, RU / EN) + finished videos (`video/`, up to 5 languages).
+Brand assets for partner creators: statics (SVG + ready-made PNG, RU / EN) + finished videos (`video/`, up to 5 languages).
 
 **The mark and logo are official, straight from Monty's brand pack.** Composites (stories, end cards, carousel, QR) are built on that same real mark (monkey + play button). No homemade characters.
 
@@ -74,15 +74,18 @@ PY
 ```
 (needs `pip3 install qrcode pillow`)
 
-## Exporting PNGs for social
+## PNGs for social
 
-SVG is the source (open in Figma with Space Grotesk installed). For PNG:
+Every `.svg` ships with a same-named `.png` next to it - use that one. Instagram, TikTok, Telegram and most editors won't open SVG.
+
+Composites (story frames, end cards, carousel, QR cards, promo banner) are rendered at their native size: `story-frame-en.png` = 1080×1920, and so on. The mark, logo and banana are upscaled (`mark.png` = 1024×1024, `logo-*.png` = 1880×560) - enough for an avatar or for print. Transparent background wherever the SVG had one.
+
+SVG is the source for edits (open in Figma with Space Grotesk installed). After editing an SVG, rebuild the PNG:
 ```bash
-pip3 install cairosvg
-python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-en.svg', write_to='story-frame-en.png', output_width=1080)"
+scripts/svg2png.sh                      # all assets
+scripts/svg2png.sh assets/mark.svg      # a single file
 ```
-Without Space Grotesk installed the text falls back to a system font - install the font before exporting, or render in Figma.
-
+Needs Chrome and `brew install pngquant`; the script finds Space Grotesk on its own.
 ---
 
 Affiliate terms: the partner signup page on monty.fast.

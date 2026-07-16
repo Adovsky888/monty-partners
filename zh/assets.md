@@ -2,7 +2,7 @@
 
 > # [🇷🇺 Русский](../ru/assets.md) · [🇬🇧 English](../en/assets.md) · [🇰🇷 한국어](../ko/assets.md) · 🇨🇳 中文 · [🇪🇸 Español](../es/assets.md)
 
-给合作伙伴创作者的品牌素材：静态文件（SVG，RU / EN）+ 成片（`video/`，最多 5 种语言）。
+给合作伙伴创作者的品牌素材：静态文件（SVG + 现成 PNG，RU / EN）+ 成片（`video/`，最多 5 种语言）。
 
 **图标和标志是官方文件，来自 Monty 品牌包。** 合成物（快拍、片尾卡、九宫格、二维码）也用的是同一个真实图标（猴子 + 播放键）。没有自造角色。
 
@@ -74,15 +74,18 @@ PY
 ```
 （需要 `pip3 install qrcode pillow`）
 
-## 导出社交平台用的 PNG
+## 社交平台用的 PNG
 
-SVG 是源文件（在装了 Space Grotesk 的 Figma 里打开）。导出 PNG：
+每个 `.svg` 旁边都已经放好了同名 `.png`，直接用它。Instagram、TikTok、Telegram 和大多数编辑器都打不开 SVG。
+
+合成图（快拍框、片尾卡、轮播图、二维码卡、推广横幅）按原生尺寸渲染：`story-frame-en.png` = 1080×1920，以此类推。图标、标志和香蕉做了放大（`mark.png` = 1024×1024，`logo-*.png` = 1880×560），够做头像也够印刷。SVG 里是透明背景的地方，PNG 里依然透明。
+
+SVG 是改稿用的源文件（在装了 Space Grotesk 的 Figma 里打开）。改完 SVG 后重新生成 PNG：
 ```bash
-pip3 install cairosvg
-python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-en.svg', write_to='story-frame-en.png', output_width=1080)"
+scripts/svg2png.sh                      # 全部素材
+scripts/svg2png.sh assets/mark.svg      # 单个文件
 ```
-没装 Space Grotesk 的话文字会回退到系统字体 - 导出前先装字体，或者直接在 Figma 里渲染。
-
+需要 Chrome 和 `brew install pngquant`；Space Grotesk 脚本会自己找。
 ---
 
 伙伴条款：monty.fast 上的伙伴注册页。

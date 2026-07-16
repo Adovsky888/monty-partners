@@ -2,7 +2,7 @@
 
 > # [🇷🇺 Русский](../ru/assets.md) · [🇬🇧 English](../en/assets.md) · [🇰🇷 한국어](../ko/assets.md) · [🇨🇳 中文](../zh/assets.md) · 🇪🇸 Español
 
-Recursos de marca para partners creadores: estáticos (SVG, RU / EN) + vídeos terminados (`video/`, hasta 5 idiomas).
+Recursos de marca para partners creadores: estáticos (SVG + PNG listos, RU / EN) + vídeos terminados (`video/`, hasta 5 idiomas).
 
 **La marca y el logo son oficiales, salen del pack de marca de Monty.** Los compuestos (stories, tarjetas finales, carrusel, QR) están montados sobre esa misma marca real (mono + botón de play). Nada de personajes caseros.
 
@@ -74,15 +74,18 @@ PY
 ```
 (necesita `pip3 install qrcode pillow`)
 
-## Exportar PNG para redes
+## PNG para redes
 
-El SVG es la fuente (ábrelo en Figma con Space Grotesk instalada). Para PNG:
+Junto a cada `.svg` ya hay un `.png` con el mismo nombre - usa ese. Instagram, TikTok, Telegram y la mayoría de editores no abren SVG.
+
+Los compuestos (marcos de stories, tarjetas finales, carrusel, tarjetas QR, banner promo) están renderizados a su tamaño nativo: `story-frame-en.png` = 1080×1920, y así. La marca, el logo y la banana van ampliados (`mark.png` = 1024×1024, `logo-*.png` = 1880×560), suficiente para foto de perfil y para imprenta. Fondo transparente donde el SVG lo tenía.
+
+El SVG es la fuente para editar (ábrelo en Figma con Space Grotesk instalada). Tras editar un SVG, regenera el PNG:
 ```bash
-pip3 install cairosvg
-python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-en.svg', write_to='story-frame-en.png', output_width=1080)"
+scripts/svg2png.sh                      # todos los recursos
+scripts/svg2png.sh assets/mark.svg      # un solo archivo
 ```
-Sin Space Grotesk instalada el texto cae a una tipografía del sistema: instálala antes de exportar, o renderiza en Figma.
-
+Necesita Chrome y `brew install pngquant`; la tipografía Space Grotesk la localiza el script.
 ---
 
 Condiciones de partner: la página de registro en monty.fast.

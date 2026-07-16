@@ -12,7 +12,7 @@ Monty 파트너가 시작하는 데 필요한 모든 것: 바로 쓰는 카피, 
 |---|---|
 | [promo-kit.md](promo-kit.md) | 카피, 스크립트, 게시물, 스토리 - 바로 올릴 수 있는 상태 |
 | [assets.md](assets.md) | 브랜드 규칙 + `assets/`에 있는 파일 설명 |
-| [../assets/](../assets/) | 파일 원본: 로고, 마크, 스토리 프레임, 엔드카드, QR, 프로모 배너(SVG) + `video/`의 영상 |
+| [../assets/](../assets/) | 파일 원본: 로고, 마크, 스토리 프레임, 엔드카드, QR, 프로모 배너(SVG + PNG) + `video/`의 영상 |
 
 [promo-kit.md](promo-kit.md)부터 보세요. 포지셔닝, 바로 쓰는 카피, 사용법이 들어 있습니다. 브랜드 규칙(색상, 폰트, 손대면 안 되는 것)은 [assets.md](assets.md)에 있습니다.
 
