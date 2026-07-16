@@ -1,0 +1,18 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Square post / carousel cover 1080 (RU). Real Monty mark on banana. -->
+  <rect width="1080" height="1080" fill="#FFD21E"/>
+  <circle cx="900" cy="180" r="240" fill="#6C4DF6" opacity="0.14"/>
+  <g transform="translate(60,54) scale(0.7)">
+    <circle cx="30" cy="52" r="19" fill="#161512"/><circle cx="98" cy="52" r="19" fill="#161512"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#161512"/>
+    <circle cx="64" cy="70" r="30" fill="#FBF7EF"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#161512" stroke="#161512" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="158" y="128" font-family="'Space Grotesk', sans-serif" font-size="64" font-weight="700" fill="#161512" letter-spacing="-2">monty</text>
+  <text x="70" y="540" font-family="'Space Grotesk', sans-serif" font-size="104" font-weight="700" fill="#161512" letter-spacing="-3">Как я делаю</text>
+  <text x="70" y="650" font-family="'Space Grotesk', sans-serif" font-size="104" font-weight="700" fill="#161512" letter-spacing="-3">рилс за минуту</text>
+  <text x="70" y="760" font-family="'Space Grotesk', sans-serif" font-size="104" font-weight="700" fill="#F0432E" letter-spacing="-3">без монтажа</text>
+  <rect x="70" y="900" width="440" height="110" rx="55" fill="#161512"/>
+  <text x="290" y="972" text-anchor="middle" font-family="Inter, sans-serif" font-size="42" font-weight="700" fill="#FFD21E">листай →</text>
+</svg>

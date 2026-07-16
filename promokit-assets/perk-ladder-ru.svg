@@ -1,0 +1,63 @@
+<svg width="1080" height="1650" viewBox="0 0 1080 1650" xmlns="http://www.w3.org/2000/svg">
+  <!-- Perk ladder poster (RU). Tiers per the Monty affiliate program. -->
+  <rect width="1080" height="1650" fill="#FBF7EF"/>
+  <!-- header -->
+  <g transform="translate(60,54) scale(0.62)">
+    <circle cx="30" cy="52" r="19" fill="#161512"/><circle cx="98" cy="52" r="19" fill="#161512"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#161512"/>
+    <circle cx="64" cy="70" r="30" fill="#FBF7EF"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#161512" stroke="#161512" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="146" y="118" font-family="'Space Grotesk', sans-serif" font-size="56" font-weight="700" fill="#161512" letter-spacing="-2">monty</text>
+  <text x="60" y="240" font-family="'Space Grotesk', sans-serif" font-size="72" font-weight="700" fill="#161512" letter-spacing="-2">Партнёрские тиры</text>
+  <text x="60" y="300" font-family="Inter, sans-serif" font-size="34" fill="#4A4843">Порог = активные платящие, приведённые за всё время</text>
+
+  <!-- rows -->
+  <g font-family="Inter, sans-serif">
+    <!-- Bronze -->
+    <rect x="60" y="350" width="960" height="200" rx="24" fill="#FFFFFF" stroke="#EAE3D6" stroke-width="2"/>
+    <rect x="88" y="382" width="240" height="66" rx="33" fill="#161512"/>
+    <text x="208" y="426" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="34" font-weight="700" fill="#FFD21E">BRONZE</text>
+    <text x="88" y="510" font-size="30" font-weight="600" fill="#161512">1+</text>
+    <text x="360" y="415" font-size="32" font-weight="600" fill="#161512">30% lifetime</text>
+    <text x="360" y="460" font-size="28" fill="#4A4843">ассет-кит, личная ссылка, дашборд</text>
+
+    <!-- Silver -->
+    <rect x="60" y="570" width="960" height="200" rx="24" fill="#FFFFFF" stroke="#EAE3D6" stroke-width="2"/>
+    <rect x="88" y="602" width="240" height="66" rx="33" fill="#161512"/>
+    <text x="208" y="646" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="34" font-weight="700" fill="#FBF7EF">SILVER</text>
+    <text x="88" y="730" font-size="30" font-weight="600" fill="#161512">10+</text>
+    <text x="360" y="635" font-size="32" font-weight="600" fill="#161512">Pro бесплатно навсегда</text>
+    <text x="360" y="680" font-size="28" fill="#4A4843">приоритет-саппорт, закрытый чат аффилиатов</text>
+
+    <!-- Gold -->
+    <rect x="60" y="790" width="960" height="200" rx="24" fill="#FFF7DF" stroke="#FFD21E" stroke-width="3"/>
+    <rect x="88" y="822" width="240" height="66" rx="33" fill="#FFD21E"/>
+    <text x="208" y="866" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="34" font-weight="700" fill="#161512">GOLD</text>
+    <text x="88" y="950" font-size="30" font-weight="600" fill="#161512">25+</text>
+    <text x="360" y="855" font-size="32" font-weight="600" fill="#161512">ставка 35%</text>
+    <text x="360" y="900" font-size="28" fill="#4A4843">ранний доступ к фичам, кобрендинг, разбор роста</text>
+
+    <!-- Platinum -->
+    <rect x="60" y="1010" width="960" height="200" rx="24" fill="#161512"/>
+    <rect x="88" y="1042" width="260" height="66" rx="33" fill="#6C4DF6"/>
+    <text x="218" y="1086" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="32" font-weight="700" fill="#FBF7EF">PLATINUM</text>
+    <text x="88" y="1170" font-size="30" font-weight="600" fill="#FBF7EF">50+</text>
+    <text x="380" y="1075" font-size="32" font-weight="600" fill="#FBF7EF">ставка до 40%</text>
+    <text x="380" y="1120" font-size="28" fill="#9A958C">личный менеджер, спецпромокоды, кейс-лист</text>
+
+    <!-- Partner -->
+    <rect x="60" y="1230" width="960" height="200" rx="24" fill="#161512"/>
+    <rect x="88" y="1262" width="260" height="66" rx="33" fill="#FFD21E"/>
+    <text x="218" y="1306" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="32" font-weight="700" fill="#161512">ПАРТНЁР</text>
+    <text x="88" y="1390" font-size="30" font-weight="600" fill="#FBF7EF">100+</text>
+    <text x="380" y="1295" font-size="32" font-weight="600" fill="#FFD21E">индивидуально</text>
+    <text x="380" y="1340" font-size="28" fill="#9A958C">ревшер, white-label, со-вебинары</text>
+  </g>
+
+  <!-- milestone bonuses -->
+  <text x="60" y="1500" font-family="'Space Grotesk', sans-serif" font-size="34" font-weight="700" fill="#161512">Разовые бонусы поверх процента</text>
+  <text x="60" y="1555" font-family="Inter, sans-serif" font-size="30" fill="#4A4843">1-я продажа +$25   ·   10 активных +$100   ·   50 +$500   ·   100 +$1500 + мерч</text>
+  <text x="60" y="1610" font-family="Inter, sans-serif" font-size="26" fill="#9A958C">30% recurring, пожизненно · cookie 90 дней · вывод от $50</text>
+</svg>

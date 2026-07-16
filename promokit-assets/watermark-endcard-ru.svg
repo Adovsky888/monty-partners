@@ -1,0 +1,19 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- FREE-tier outro end-card 9:16 (RU). 1.5-2s. Product's own watermark loop, NOT affiliate CTA. -->
+  <rect width="1080" height="1920" fill="#161512"/>
+  <circle cx="540" cy="720" r="470" fill="#6C4DF6" opacity="0.10"/>
+  <g stroke="#FFD21E" stroke-width="8" opacity="0.5" stroke-linecap="round">
+    <line x1="120" y1="700" x2="240" y2="700"/><line x1="120" y1="760" x2="300" y2="760"/><line x1="120" y1="820" x2="220" y2="820"/>
+  </g>
+  <g transform="translate(348,520) scale(3)">
+    <circle cx="30" cy="52" r="19" fill="#FBF7EF"/><circle cx="98" cy="52" r="19" fill="#FBF7EF"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#FBF7EF"/>
+    <circle cx="64" cy="70" r="30" fill="#161512"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#FFD21E" stroke="#FFD21E" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="540" y="1000" text-anchor="middle" font-family="Inter, sans-serif" font-size="52" font-weight="600" fill="#FBF7EF">Сделано в <tspan font-family="'Space Grotesk', sans-serif" font-weight="700" fill="#FFD21E" letter-spacing="-2">monty</tspan></text>
+  <rect x="290" y="1120" width="500" height="130" rx="65" fill="#FFD21E"/>
+  <text x="540" y="1208" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="64" font-weight="700" fill="#161512" letter-spacing="-2">monty.fast</text>
+  <text x="540" y="1360" text-anchor="middle" font-family="Inter, sans-serif" font-size="40" fill="#9A958C">сделай свой - бесплатно</text>
+</svg>

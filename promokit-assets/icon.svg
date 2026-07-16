@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Monty app icon">
+  <!-- Monty app icon (P2): banana squircle + monkey-play head -->
+  <rect width="128" height="128" rx="29" fill="#FFD21E"/>
+  <circle cx="36" cy="56" r="17" fill="#161512"/>
+  <circle cx="92" cy="56" r="17" fill="#161512"/>
+  <rect x="33" y="32" width="62" height="72" rx="31" fill="#161512"/>
+  <circle cx="64" cy="72" r="26" fill="#FBF7EF"/>
+  <path d="M58 59 L58 85 L82 72 Z" fill="#161512" stroke="#161512" stroke-width="4.5" stroke-linejoin="round"/>
+</svg>

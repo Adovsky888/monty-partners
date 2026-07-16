@@ -1,0 +1,26 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- Story overlay 9:16 (RU). Real Monty mark. Center = slot for creator video. -->
+  <rect width="1080" height="1920" fill="#FBF7EF"/>
+  <!-- top brand: real mark (light-bg) + wordmark -->
+  <g transform="translate(60,52) scale(0.82)">
+    <circle cx="30" cy="52" r="19" fill="#161512"/><circle cx="98" cy="52" r="19" fill="#161512"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#161512"/>
+    <circle cx="64" cy="70" r="30" fill="#FBF7EF"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#161512" stroke="#161512" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="172" y="140" font-family="'Space Grotesk', sans-serif" font-size="76" font-weight="700" fill="#161512" letter-spacing="-3">monty</text>
+  <!-- headline -->
+  <text x="60" y="400" font-family="'Space Grotesk', sans-serif" font-size="92" font-weight="700" fill="#161512" letter-spacing="-2">Монтаж больше</text>
+  <text x="60" y="500" font-family="'Space Grotesk', sans-serif" font-size="92" font-weight="700" fill="#161512" letter-spacing="-2">не мой вечер</text>
+  <!-- video slot -->
+  <rect x="60" y="580" width="960" height="820" rx="40" fill="none" stroke="#EAE3D6" stroke-width="6" stroke-dasharray="24 20"/>
+  <text x="540" y="1000" text-anchor="middle" font-family="Inter, sans-serif" font-size="44" fill="#9A958C">↑ твоё видео сюда ↑</text>
+  <!-- bottom CTA panel -->
+  <rect x="60" y="1470" width="960" height="380" rx="44" fill="#161512"/>
+  <text x="110" y="1580" font-family="Inter, sans-serif" font-size="42" fill="#FBF7EF">ИИ сам собирает ролик из сырого видео</text>
+  <rect x="110" y="1620" width="500" height="96" rx="48" fill="#FFD21E"/>
+  <text x="360" y="1682" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="46" font-weight="700" fill="#161512">код ТВОЙ_КОД</text>
+  <text x="110" y="1800" font-family="Inter, sans-serif" font-size="38" fill="#FFD21E">monty.fast/r/ТВОЙ_КОД</text>
+  <text x="880" y="1690" font-family="'Space Grotesk', sans-serif" font-size="120" font-weight="700" fill="#FFD21E">↑</text>
+</svg>

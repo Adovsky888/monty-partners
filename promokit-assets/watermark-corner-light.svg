@@ -1,0 +1,12 @@
+<svg width="420" height="72" viewBox="0 0 420 72" xmlns="http://www.w3.org/2000/svg">
+  <!-- Corner watermark for FREE-tier exports, on darker/busy footage (cream). "Made with Monty". -->
+  <g transform="translate(4,10) scale(0.46)">
+    <circle cx="30" cy="52" r="19" fill="#FBF7EF"/><circle cx="98" cy="52" r="19" fill="#FBF7EF"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#FBF7EF"/>
+    <circle cx="64" cy="70" r="30" fill="#161512"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#FFD21E" stroke="#FFD21E" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="47" font-family="Inter, sans-serif" font-size="30" font-weight="600" fill="#FBF7EF">Made with</text>
+  <text x="238" y="47" font-family="'Space Grotesk', sans-serif" font-size="30" font-weight="700" fill="#FFD21E" letter-spacing="-1">monty</text>
+</svg>

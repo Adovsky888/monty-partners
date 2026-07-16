@@ -1,0 +1,21 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- Reel end-card 9:16 (RU). Dark. Real Monty mark. Paste as last 2s of a reel. -->
+  <rect width="1080" height="1920" fill="#161512"/>
+  <circle cx="920" cy="240" r="360" fill="#6C4DF6" opacity="0.16"/>
+  <circle cx="160" cy="1600" r="300" fill="#FFD21E" opacity="0.10"/>
+  <!-- real mark (dark-bg) -->
+  <g transform="translate(348,182) scale(3)">
+    <circle cx="30" cy="52" r="19" fill="#FBF7EF"/><circle cx="98" cy="52" r="19" fill="#FBF7EF"/>
+    <circle cx="30" cy="52" r="9" fill="#FFD21E"/><circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+    <rect x="28" y="26" width="72" height="80" rx="36" fill="#FBF7EF"/>
+    <circle cx="64" cy="70" r="30" fill="#161512"/>
+    <path d="M57 55 L57 85 L84 70 Z" fill="#FFD21E" stroke="#FFD21E" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <text x="540" y="640" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="104" font-weight="700" fill="#FBF7EF" letter-spacing="-3">monty</text>
+  <text x="540" y="740" text-anchor="middle" font-family="Inter, sans-serif" font-size="46" fill="#9A958C">ИИ монтирует ролик за тебя</text>
+  <rect x="140" y="900" width="800" height="140" rx="70" fill="#FFD21E"/>
+  <text x="540" y="990" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="58" font-weight="700" fill="#161512">Попробуй бесплатно</text>
+  <text x="540" y="1220" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="56" font-weight="700" fill="#FFD21E">monty.fast/r/ТВОЙ_КОД</text>
+  <text x="540" y="1310" text-anchor="middle" font-family="Inter, sans-serif" font-size="44" fill="#FBF7EF">промокод ТВОЙ_КОД - бонус на старте</text>
+  <text x="540" y="1470" text-anchor="middle" font-family="Inter, sans-serif" font-size="38" fill="#9A958C">ссылка в описании ↓</text>
+</svg>

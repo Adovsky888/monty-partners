@@ -1,0 +1,112 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Monty — один промт, готовый ролик, опубликован везде. Партнёрская программа 30% пожизненно.">
+  <!-- Monty Affiliate promo hero (RU). Composition mirrors the "phone + floating pills" promo layout,
+       but on Monty's message (prompt -> reel -> auto-publish) and brand tokens.
+       Cream #FBF7EF base / Ink #161512 / Banana #FFD21E / Violet #6C4DF6. Display: Space Grotesk 700. -->
+  <defs>
+    <filter id="pillShadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#161512" flood-opacity="0.16"/>
+    </filter>
+    <filter id="phoneShadow" x="-30%" y="-20%" width="160%" height="150%">
+      <feDropShadow dx="0" dy="24" stdDeviation="34" flood-color="#161512" flood-opacity="0.28"/>
+    </filter>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#241C4A"/>
+      <stop offset="0.55" stop-color="#161512"/>
+      <stop offset="1" stop-color="#0E0D0B"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6C4DF6"/>
+      <stop offset="1" stop-color="#FFD21E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1600" height="900" fill="#FBF7EF"/>
+
+  <!-- Concentric banana glow behind phone (right focus) -->
+  <g>
+    <circle cx="1180" cy="450" r="560" fill="#FFD21E" opacity="0.10"/>
+    <circle cx="1180" cy="450" r="430" fill="#FFD21E" opacity="0.16"/>
+    <circle cx="1180" cy="450" r="310" fill="#FFD21E" opacity="0.26"/>
+  </g>
+
+  <!-- ===== LEFT: copy ===== -->
+  <!-- Eyebrow -->
+  <g transform="translate(96,120)">
+    <circle cx="14" cy="14" r="14" fill="#161512"/>
+    <path d="M8 6 L8 22 L22 14 Z" fill="#FFD21E"/>
+    <text x="42" y="21" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#4A4843">ПАРТНЁРСКАЯ ПРОГРАММА</text>
+  </g>
+
+  <!-- Headline -->
+  <text x="94" y="290" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#161512">Один промпт.</text>
+  <!-- highlighted middle line on banana -->
+  <rect x="86" y="318" width="452" height="96" rx="20" fill="#FFD21E"/>
+  <text x="110" y="388" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#161512">Готовый ролик.</text>
+  <text x="94" y="486" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#161512">Опубликован</text>
+  <text x="94" y="574" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#161512">везде.</text>
+
+  <!-- Sub -->
+  <text x="96" y="662" font-family="'Inter','Helvetica Neue',sans-serif" font-size="30" font-weight="500" fill="#4A4843">Приводишь креатора - получаешь</text>
+  <text x="96" y="702" font-family="'Inter','Helvetica Neue',sans-serif" font-size="30" font-weight="700" fill="#161512">30% с его подписки. Пожизненно.</text>
+
+  <!-- Reflink chip -->
+  <g filter="url(#pillShadow)">
+    <rect x="96" y="742" width="440" height="72" rx="36" fill="#161512"/>
+    <text x="128" y="787" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#FBF7EF">monty.fast/r/</text>
+    <text x="345" y="787" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#FFD21E">ТВОЙ-КОД</text>
+  </g>
+
+  <!-- ===== RIGHT: phone ===== -->
+  <g filter="url(#phoneShadow)">
+    <rect x="1012" y="150" width="336" height="600" rx="46" fill="#161512"/>
+    <rect x="1024" y="162" width="312" height="576" rx="36" fill="url(#screen)"/>
+    <!-- neon swoosh -->
+    <path d="M1040 470 C1120 360 1200 560 1320 420" stroke="url(#neon)" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <circle cx="1180" cy="360" r="120" fill="#6C4DF6" opacity="0.18"/>
+    <!-- Monty mark top-left of screen -->
+    <g transform="translate(1044,182) scale(0.32)">
+      <circle cx="30" cy="52" r="19" fill="#FBF7EF"/>
+      <circle cx="98" cy="52" r="19" fill="#FBF7EF"/>
+      <circle cx="30" cy="52" r="9" fill="#FFD21E"/>
+      <circle cx="98" cy="52" r="9" fill="#FFD21E"/>
+      <rect x="28" y="26" width="72" height="80" rx="36" fill="#FBF7EF"/>
+      <circle cx="64" cy="70" r="30" fill="#161512"/>
+      <path d="M57 55 L57 85 L84 70 Z" fill="#FFD21E" stroke="#FFD21E" stroke-width="5" stroke-linejoin="round"/>
+    </g>
+    <!-- kinetic caption bar -->
+    <rect x="1052" y="628" width="256" height="70" rx="16" fill="#FBF7EF"/>
+    <rect x="1150" y="646" width="92" height="40" rx="10" fill="#FFD21E"/>
+    <text x="1070" y="673" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#161512">твой ролик</text>
+  </g>
+
+  <!-- ===== Floating feature pills ===== -->
+  <!-- Пишет сценарий (violet, upper-left of phone) -->
+  <g filter="url(#pillShadow)" transform="translate(858,268)">
+    <rect width="278" height="64" rx="32" fill="#6C4DF6"/>
+    <text x="139" y="41" text-anchor="middle" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="27" font-weight="700" letter-spacing="-0.5" fill="#FBF7EF">✍️ Пишет сценарий</text>
+  </g>
+  <!-- Субтитры (banana, top-right) -->
+  <g filter="url(#pillShadow)" transform="translate(1300,214)">
+    <rect width="236" height="64" rx="32" fill="#FFD21E"/>
+    <text x="118" y="41" text-anchor="middle" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="27" font-weight="700" letter-spacing="-0.5" fill="#161512">💬 Субтитры</text>
+  </g>
+  <!-- Монтирует (ink, right-mid) -->
+  <g filter="url(#pillShadow)" transform="translate(1332,452)">
+    <rect width="230" height="64" rx="32" fill="#161512"/>
+    <text x="115" y="41" text-anchor="middle" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="27" font-weight="700" letter-spacing="-0.5" fill="#FBF7EF">✂️ Монтирует</text>
+  </g>
+  <!-- Публикует везде (banana, bottom-left) -->
+  <g filter="url(#pillShadow)" transform="translate(846,690)">
+    <rect width="308" height="64" rx="32" fill="#FFD21E"/>
+    <text x="154" y="41" text-anchor="middle" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="27" font-weight="700" letter-spacing="-0.5" fill="#161512">🚀 Публикует везде</text>
+  </g>
+
+  <!-- Banana brand sticker -->
+  <g transform="translate(1476,556) rotate(18)">
+    <path d="M2 4 C10 30 34 40 54 34 C40 44 14 42 4 20 Z" fill="#FFD21E" stroke="#161512" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Wordmark footer-right -->
+  <text x="1504" y="836" text-anchor="end" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="34" font-weight="700" letter-spacing="-2" fill="#161512">monty</text>
+</svg>
