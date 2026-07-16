@@ -105,7 +105,7 @@ Link in bio.
 ```
 Stopped editing reels by hand.
 
-Monty is an AI agent: drop raw video, it cuts, captions, scores and posts. 4 minutes, not an evening.
+Monty is an AI agent: drop raw video, it cuts, captions, scores and posts it everywhere. 4 minutes, not an evening.
 
 Starter bonus with my code YOUR_CODE:
 monty.fast/r/YOUR_CODE
