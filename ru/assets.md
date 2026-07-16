@@ -1,6 +1,6 @@
 # Monty Affiliate - Asset Pack
 
-> # 🇷🇺 Русский · [🇬🇧 English](README.en.md) · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
+> # 🇷🇺 Русский · [🇬🇧 English](../en/assets.md) · [🇰🇷 한국어](../ko/assets.md) · [🇨🇳 中文](../zh/assets.md) · [🇪🇸 Español](../es/assets.md)
 
 Брендовые ассеты для партнёров-блогеров: статика (SVG, RU / EN) + готовые ролики (`video/`, до 5 языков).
 
@@ -86,4 +86,4 @@ python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-ru.svg', write_to
 ---
 
 Условия партнёрки: страница регистрации партнёра на monty.fast.
-Тексты кита: [🇷🇺 RU](../AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](../AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](../AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](../AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](../AFFILIATE-PROMOKIT-ES.md)
+Тексты кита: [🇷🇺 RU](../ru/promo-kit.md) · [🇬🇧 EN](../en/promo-kit.md) · [🇰🇷 KO](../ko/promo-kit.md) · [🇨🇳 ZH](../zh/promo-kit.md) · [🇪🇸 ES](../es/promo-kit.md)

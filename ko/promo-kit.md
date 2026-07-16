@@ -1,6 +1,6 @@
 # Monty Affiliate - 크리에이터 프로모 키트 (KO)
 
-> # [🇷🇺 Русский](AFFILIATE-PROMOKIT.md) · [🇬🇧 English](AFFILIATE-PROMOKIT-EN.md) · 🇰🇷 한국어 · [🇨🇳 中文](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 Español](AFFILIATE-PROMOKIT-ES.md)
+> # [🇷🇺 Русский](../ru/promo-kit.md) · [🇬🇧 English](../en/promo-kit.md) · 🇰🇷 한국어 · [🇨🇳 中文](../zh/promo-kit.md) · [🇪🇸 Español](../es/promo-kit.md)
 
 인플루언서 파트너를 위한 바로 쓰는 자료입니다. 복사하고, 내 코드만 넣고, 올리세요.
 
@@ -168,7 +168,7 @@ monty.fast/r/YOUR_CODE
 
 ## 10. 애셋 팩
 
-브랜드 SVG와 완성 영상은 `promokit-assets/`에 있습니다. 해당 README를 보세요.
+브랜드 SVG와 완성 영상은 [`../assets/`](../assets/)에 있습니다. 파일 설명은 [assets.md](assets.md)에서.
 브랜드: 바나나 `#FFD21E`, ink `#161512`, cream `#FBF7EF`, 퍼플 `#6C4DF6`, 코랄 `#FB4D3D`. 폰트: Space Grotesk (디스플레이), Inter (본문).
 
 ---

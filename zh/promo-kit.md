@@ -1,6 +1,6 @@
 # Monty Affiliate 博主推广物料包（中文）
 
-> # [🇷🇺 Русский](AFFILIATE-PROMOKIT.md) · [🇬🇧 English](AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 한국어](AFFILIATE-PROMOKIT-KO.md) · 🇨🇳 中文 · [🇪🇸 Español](AFFILIATE-PROMOKIT-ES.md)
+> # [🇷🇺 Русский](../ru/promo-kit.md) · [🇬🇧 English](../en/promo-kit.md) · [🇰🇷 한국어](../ko/promo-kit.md) · 🇨🇳 中文 · [🇪🇸 Español](../es/promo-kit.md)
 
 给达人合作伙伴的现成素材。复制、换成你的专属码、直接发。
 
@@ -168,7 +168,7 @@ monty.fast/r/YOUR_CODE
 
 ## 10. 素材包
 
-品牌 SVG（中英双语）和现成的成片都在 `promokit-assets/`，用法见里面的 README。
+品牌 SVG（俄英双语）和现成的成片都在 [`../assets/`](../assets/)，每个文件是什么见 [assets.md](assets.md)。
 品牌色：banana `#FFD21E`、ink `#161512`、cream `#FBF7EF`、紫 `#6C4DF6`、珊瑚红 `#FB4D3D`。字体：Space Grotesk（标题）、Inter（正文）。
 
 ---

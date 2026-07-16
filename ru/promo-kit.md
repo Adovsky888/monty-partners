@@ -1,6 +1,6 @@
 # Monty Affiliate - промо-кит для блогеров
 
-> # 🇷🇺 Русский · [🇬🇧 English](AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 한국어](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 中文](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 Español](AFFILIATE-PROMOKIT-ES.md)
+> # 🇷🇺 Русский · [🇬🇧 English](../en/promo-kit.md) · [🇰🇷 한국어](../ko/promo-kit.md) · [🇨🇳 中文](../zh/promo-kit.md) · [🇪🇸 Español](../es/promo-kit.md)
 
 Готовые материалы для партнёров-инфлюенсеров. Копируй, подставляй свой код, публикуй.
 
@@ -168,7 +168,7 @@ monty.fast/r/ТВОЙ_КОД
 
 ## 10. Ассеты
 
-Брендовые SVG (RU / EN) и готовые ролики - в `promokit-assets/`, см. его README.
+Брендовые SVG (RU / EN) и готовые ролики - в [`../assets/`](../assets/), описание файлов - в [assets.md](assets.md).
 Бренд: банан `#FFD21E`, ink `#161512`, cream `#FBF7EF`, фиолет `#6C4DF6`, коралл `#FB4D3D`. Шрифты: Space Grotesk (дисплей), Inter (текст).
 
 ---

@@ -1,6 +1,6 @@
 # Monty Affiliate - Creator Promo Kit (EN)
 
-> # [🇷🇺 Русский](AFFILIATE-PROMOKIT.md) · 🇬🇧 English · [🇰🇷 한국어](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 中文](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 Español](AFFILIATE-PROMOKIT-ES.md)
+> # [🇷🇺 Русский](../ru/promo-kit.md) · 🇬🇧 English · [🇰🇷 한국어](../ko/promo-kit.md) · [🇨🇳 中文](../zh/promo-kit.md) · [🇪🇸 Español](../es/promo-kit.md)
 
 Ready-to-use materials for influencer partners. Copy, drop in your code, post.
 
@@ -168,7 +168,7 @@ Being honest about the partnership = more trust. Don't hide it.
 
 ## 10. Asset pack
 
-Bilingual SVG assets ship in `promokit-assets/`. See its README.
+Bilingual SVG assets and the finished videos ship in [`../assets/`](../assets/). What each file is: [assets.md](assets.md).
 Brand: banana `#FFD21E`, ink `#161512`, cream `#FBF7EF`, purple `#6C4DF6`, coral `#FB4D3D`. Font: Space Grotesk (display), Inter (body).
 
 ---

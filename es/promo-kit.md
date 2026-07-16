@@ -1,6 +1,6 @@
 # Monty Affiliate - kit de promoción para creadores (ES)
 
-> # [🇷🇺 Русский](AFFILIATE-PROMOKIT.md) · [🇬🇧 English](AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 한국어](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 中文](AFFILIATE-PROMOKIT-ZH.md) · 🇪🇸 Español
+> # [🇷🇺 Русский](../ru/promo-kit.md) · [🇬🇧 English](../en/promo-kit.md) · [🇰🇷 한국어](../ko/promo-kit.md) · [🇨🇳 中文](../zh/promo-kit.md) · 🇪🇸 Español
 
 Material listo para partners influencers. Copia, pon tu código, publica.
 
@@ -168,7 +168,7 @@ Ser honesto con la colaboración te da más confianza. No lo escondas.
 
 ## 10. Assets
 
-Los SVG de marca (RU / EN) y los videos listos están en `promokit-assets/`, mira su README.
+Los SVG de marca (RU / EN) y los videos listos están en [`../assets/`](../assets/); qué es cada archivo, en [assets.md](assets.md).
 Marca: banana `#FFD21E`, ink `#161512`, cream `#FBF7EF`, morado `#6C4DF6`, coral `#FB4D3D`. Tipografías: Space Grotesk (display), Inter (texto).
 
 ---
