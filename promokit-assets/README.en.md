@@ -1,4 +1,4 @@
-# Monty Affiliate — Asset Pack
+# Monty Affiliate - Asset Pack
 
 > # [🇷🇺 Русский](README.md) · 🇬🇧 English · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
@@ -86,4 +86,4 @@ Without Space Grotesk installed the text falls back to a system font - install t
 ---
 
 Affiliate terms: the partner signup page on monty.fast.
-Kit copy: `../AFFILIATE-PROMOKIT-EN.md` (EN), `../AFFILIATE-PROMOKIT.md` (RU).
+Kit copy: [🇷🇺 RU](../AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](../AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](../AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](../AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](../AFFILIATE-PROMOKIT-ES.md)

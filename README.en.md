@@ -10,8 +10,7 @@ Everything a Monty partner needs to start: ready-to-use copy, brand assets and f
 
 | | |
 |---|---|
-| [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) | copy, scripts, posts, stories - EN |
-| [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) | same thing - RU |
+| Promo kit: [🇬🇧 EN](AFFILIATE-PROMOKIT-EN.md) · [🇷🇺 RU](AFFILIATE-PROMOKIT.md) · [🇰🇷 KO](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](AFFILIATE-PROMOKIT-ES.md) | copy, scripts, posts, stories - in all five languages |
 | [promokit-assets/](promokit-assets/) | logo, mark, story frames, end cards, QR, promo banners (SVG) + finished videos in `video/` (RU/EN/KO/ZH/ES, 16:9 and 9:16) |
 
 Start with [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) - positioning, ready-made copy and how to use it. Brand rules (colors, fonts, what not to touch) live in [promokit-assets/README.en.md](promokit-assets/README.en.md).

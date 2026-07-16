@@ -1,4 +1,4 @@
-# Monty Affiliate — Asset Pack
+# Monty Affiliate - Asset Pack
 
 > # [🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md) · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · 🇪🇸 Español
 
@@ -86,4 +86,4 @@ Sin Space Grotesk instalada el texto cae a una tipografía del sistema: instála
 ---
 
 Condiciones de partner: la página de registro en monty.fast.
-Textos del kit: `../AFFILIATE-PROMOKIT-EN.md` (EN), `../AFFILIATE-PROMOKIT.md` (RU).
+Textos del kit: [🇷🇺 RU](../AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](../AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](../AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](../AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](../AFFILIATE-PROMOKIT-ES.md)

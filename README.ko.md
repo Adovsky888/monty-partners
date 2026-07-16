@@ -10,13 +10,12 @@ Monty 파트너가 시작하는 데 필요한 모든 것: 바로 쓰는 카피, 
 
 | | |
 |---|---|
-| [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) | 카피, 스크립트, 게시물, 스토리 - 영어 |
-| [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) | 같은 내용 - 러시아어 |
+| 프로모 키트: [🇰🇷 KO](AFFILIATE-PROMOKIT-KO.md) · [🇬🇧 EN](AFFILIATE-PROMOKIT-EN.md) · [🇷🇺 RU](AFFILIATE-PROMOKIT.md) · [🇨🇳 ZH](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](AFFILIATE-PROMOKIT-ES.md) | 카피, 스크립트, 게시물, 스토리 - 5개 언어 전부 |
 | [promokit-assets/](promokit-assets/) | 로고, 마크, 스토리 프레임, 엔드카드, QR, 프로모 배너(SVG) + `video/`의 완성 영상 (RU/EN/KO/ZH/ES, 16:9 및 9:16) |
 
-[AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md)부터 보세요. 포지셔닝, 바로 쓰는 카피, 사용법이 들어 있습니다. 브랜드 규칙(색상, 폰트, 손대면 안 되는 것)은 [promokit-assets/README.ko.md](promokit-assets/README.ko.md)에 있습니다.
+[AFFILIATE-PROMOKIT-KO.md](AFFILIATE-PROMOKIT-KO.md)부터 보세요. 포지셔닝, 바로 쓰는 카피, 사용법이 들어 있습니다. 브랜드 규칙(색상, 폰트, 손대면 안 되는 것)은 [promokit-assets/README.ko.md](promokit-assets/README.ko.md)에 있습니다.
 
-카피는 아직 러시아어와 영어만 있습니다. 영상은 한국어 버전이 있습니다 - `video/` 안의 `-ko-` 파일을 쓰세요.
+영상도 한국어 버전이 있습니다 - `video/` 안의 `-ko-` 파일을 쓰세요.
 
 ## 작동 방식
 

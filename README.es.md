@@ -10,17 +10,16 @@ Todo lo que un partner de Monty necesita para empezar: textos listos, recursos d
 
 | | |
 |---|---|
-| [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) | textos, guiones, posts, stories - EN |
-| [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) | lo mismo - RU |
+| Kit de promo: [🇪🇸 ES](AFFILIATE-PROMOKIT-ES.md) · [🇬🇧 EN](AFFILIATE-PROMOKIT-EN.md) · [🇷🇺 RU](AFFILIATE-PROMOKIT.md) · [🇰🇷 KO](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](AFFILIATE-PROMOKIT-ZH.md) | textos, guiones, posts, stories - en los cinco idiomas |
 | [promokit-assets/](promokit-assets/) | logo, marca, marcos de stories, tarjetas finales, QR, banners promo (SVG) + vídeos terminados en `video/` (RU/EN/KO/ZH/ES, 16:9 y 9:16) |
 
-Empieza por [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md): posicionamiento, textos listos y cómo usarlos. Las reglas de marca (colores, tipografías, lo que no se toca) están en [promokit-assets/README.es.md](promokit-assets/README.es.md).
+Empieza por [AFFILIATE-PROMOKIT-ES.md](AFFILIATE-PROMOKIT-ES.md): posicionamiento, textos listos y cómo usarlos. Las reglas de marca (colores, tipografías, lo que no se toca) están en [promokit-assets/README.es.md](promokit-assets/README.es.md).
 
-Los textos por ahora solo están en ruso e inglés. Los vídeos sí tienen versión en español - usa los archivos con `-es-` en `video/`.
+Los vídeos también tienen versión en español - usa los archivos con `-es-` en `video/`.
 
 ## Cómo funciona
 
-Recibes un enlace personal `monty.fast/r/TU_CODIGO` y un cupón. Por cada cliente que llegue por ellos y pague Monty te llevas comisión: **el 30% de cada pago, de por vida**, mientras el cliente siga pagando. Los partners grandes tienen un porcentaje mayor.
+Recibes un enlace personal `monty.fast/r/YOUR_CODE` y un cupón. Por cada cliente que llegue por ellos y pague Monty te llevas comisión: **el 30% de cada pago, de por vida**, mientras el cliente siga pagando. Los partners grandes tienen un porcentaje mayor.
 
 Pon tu enlace o tu código en todas partes: sin ellos, los pagos no se te acreditan.
 

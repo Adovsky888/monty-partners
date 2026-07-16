@@ -1,4 +1,4 @@
-# Monty Affiliate — Asset Pack
+# Monty Affiliate - Asset Pack
 
 > # [🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md) · 🇰🇷 한국어 · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
@@ -86,4 +86,4 @@ Space Grotesk가 없으면 텍스트가 시스템 폰트로 대체됩니다. 내
 ---
 
 파트너 약관: monty.fast의 파트너 가입 페이지.
-키트 카피: `../AFFILIATE-PROMOKIT-EN.md` (EN), `../AFFILIATE-PROMOKIT.md` (RU).
+키트 카피: [🇷🇺 RU](../AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](../AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](../AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](../AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](../AFFILIATE-PROMOKIT-ES.md)

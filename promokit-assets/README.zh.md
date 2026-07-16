@@ -1,4 +1,4 @@
-# Monty Affiliate — Asset Pack
+# Monty Affiliate - Asset Pack
 
 > # [🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md) · [🇰🇷 한국어](README.ko.md) · 🇨🇳 中文 · [🇪🇸 Español](README.es.md)
 
@@ -86,4 +86,4 @@ python3 -c "import cairosvg; cairosvg.svg2png(url='story-frame-en.svg', write_to
 ---
 
 伙伴条款：monty.fast 上的伙伴注册页。
-文案：`../AFFILIATE-PROMOKIT-EN.md`（EN），`../AFFILIATE-PROMOKIT.md`（RU）。
+文案：[🇷🇺 RU](../AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](../AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](../AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](../AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](../AFFILIATE-PROMOKIT-ES.md)

@@ -1,4 +1,6 @@
-# Monty Affiliate — Creator Promo Kit (EN)
+# Monty Affiliate - Creator Promo Kit (EN)
+
+> # [🇷🇺 Русский](AFFILIATE-PROMOKIT.md) · 🇬🇧 English · [🇰🇷 한국어](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 中文](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 Español](AFFILIATE-PROMOKIT-ES.md)
 
 Ready-to-use materials for influencer partners. Copy, drop in your code, post.
 
@@ -25,7 +27,7 @@ Pick per niche:
 - "Tell Monty the idea, get an edited reel back. No manual editing."
 - "Upload the material, Monty cut it, captioned it, scored it, published it. Done."
 
-Avoid: "neural net for video" (cliche), "editing revolution" (empty). Name the real pain: editing eats hours, Monty does it in minutes.
+Avoid: "neural net for video" (cliche), "editing revolution" (empty). Name the real pain: editing eats hours, Monty does it in 4 minutes.
 
 ---
 
@@ -38,13 +40,13 @@ Avoid: "neural net for video" (cliche), "editing revolution" (empty). Name the r
 [3-10s] "The problem isn't ideas. It's sitting down to actually edit."
 [10-20s] Screen: drop raw video into Monty, hit one button.
 [20-30s] Show finished reel: captions, cuts, music - built itself.
-[30-40s] "That took a minute, not a night. Link in bio, bonus with my code."
+[30-40s] "That took 4 minutes, not a night. Link in bio, bonus with my code."
 ```
 
 ### Script B - challenge (dynamic)
 
 ```
-[0-3s] "Challenge: make a finished reel in 60 seconds. Go."
+[0-3s] "Challenge: make a finished reel in 4 minutes. Go."
 [3-30s] Timer in corner. Real time: idea → Monty → finished reel.
 [30-40s] "Made it. This used to be my whole evening. Code below - try it."
 ```
@@ -64,7 +66,7 @@ Avoid: "neural net for video" (cliche), "editing revolution" (empty). Name the r
 ```
 Story 1: "Who else hates editing? 🙋" [poll yes/no]
 Story 2: "Found a thing that edits for me. Watch." [process clip]
-Story 3: "Dropped raw footage → got a finished reel. A minute." [result]
+Story 3: "Dropped raw footage → got a finished reel. 4 minutes." [result]
 Story 4: "My code YOUR_CODE gives you a bonus. Link ↑" [link sticker]
 ```
 
@@ -90,7 +92,7 @@ Now I drop raw footage into Monty and get a finished reel. It:
 - picks music
 - publishes where it needs to go
 
-A minute instead of a night.
+4 minutes instead of a night.
 
 If you're tired of editing by hand too - my code YOUR_CODE gets you a starter bonus.
 Link in bio.
@@ -103,7 +105,7 @@ Link in bio.
 ```
 Stopped editing reels by hand.
 
-Monty is an AI agent: drop raw video, it cuts, captions, scores and posts. A minute, not an evening.
+Monty is an AI agent: drop raw video, it cuts, captions, scores and posts. 4 minutes, not an evening.
 
 Starter bonus with my code YOUR_CODE:
 monty.fast/r/YOUR_CODE
@@ -128,7 +130,7 @@ Subject: how I stopped losing evenings to editing
 Short version. One video used to eat half my day.
 Now I upload raw footage to Monty and AI edits it: cuts, captions, music, publishing.
 
-A minute instead of a night. Not exaggerating.
+4 minutes instead of a night. Not exaggerating.
 
 Want the same - my code YOUR_CODE gives you a starter bonus:
 → monty.fast/r/YOUR_CODE
@@ -160,7 +162,7 @@ Being honest about the partnership = more trust. Don't hide it.
 - Guarantee income/virality to the viewer.
 - Clickbait "free forever" - there are paid plans.
 - Use platform logos as "official partnership."
-- Put your code on your own accounts (self-referral is banned, see AFFILIATE.md).
+- Put your code on your own accounts: self-referral is banned (see the affiliate terms on monty.fast).
 
 ---
 

@@ -10,8 +10,7 @@
 
 | | |
 |---|---|
-| [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) | тексты, сценарии, посты, сторис - RU |
-| [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) | то же самое - EN |
+| Промо-кит: [🇷🇺 RU](AFFILIATE-PROMOKIT.md) · [🇬🇧 EN](AFFILIATE-PROMOKIT-EN.md) · [🇰🇷 KO](AFFILIATE-PROMOKIT-KO.md) · [🇨🇳 ZH](AFFILIATE-PROMOKIT-ZH.md) · [🇪🇸 ES](AFFILIATE-PROMOKIT-ES.md) | тексты, сценарии, посты, сторис - на всех пяти языках |
 | [promokit-assets/](promokit-assets/) | лого, маркет, сторис-рамки, энд-карты, QR, промо-баннеры (SVG) + готовые ролики в `video/` (RU/EN/KO/ZH/ES, 16:9 и 9:16) |
 
 Начни с [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) - там позиционирование, готовые тексты и как ими пользоваться. Правила по бренду (цвета, шрифты, что нельзя трогать) - в [promokit-assets/README.md](promokit-assets/README.md).
