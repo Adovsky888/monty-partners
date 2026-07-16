@@ -1,6 +1,6 @@
 # Monty Affiliate — Asset Pack
 
-> # 🇷🇺 [**ЧИТАТЬ ПО-РУССКИ → README.md**](README.md)
+> # [🇷🇺 Русский](README.md) · 🇬🇧 English · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
 Brand assets for partner creators: statics (SVG, RU / EN) + finished videos (`video/`, up to 5 languages).
 

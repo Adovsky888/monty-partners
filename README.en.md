@@ -1,6 +1,6 @@
 # Monty Partners
 
-> # 🇷🇺 [**ЧИТАТЬ ПО-РУССКИ → README.md**](README.md)
+> # [🇷🇺 Русский](README.md) · 🇬🇧 English · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
 Everything a Monty partner needs to start: ready-to-use copy, brand assets and finished videos.
 
@@ -14,7 +14,7 @@ Everything a Monty partner needs to start: ready-to-use copy, brand assets and f
 | [AFFILIATE-PROMOKIT.md](AFFILIATE-PROMOKIT.md) | same thing - RU |
 | [promokit-assets/](promokit-assets/) | logo, mark, story frames, end cards, QR, promo banners (SVG) + finished videos in `video/` (RU/EN/KO/ZH/ES, 16:9 and 9:16) |
 
-Start with [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) - positioning, ready-made copy and how to use it. Brand rules (colors, fonts, what not to touch) live in [promokit-assets/README.md](promokit-assets/README.md) (RU).
+Start with [AFFILIATE-PROMOKIT-EN.md](AFFILIATE-PROMOKIT-EN.md) - positioning, ready-made copy and how to use it. Brand rules (colors, fonts, what not to touch) live in [promokit-assets/README.en.md](promokit-assets/README.en.md).
 
 ## How it works
 

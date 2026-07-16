@@ -1,6 +1,6 @@
 # Monty Partners
 
-> # 🇬🇧 [**READ IN ENGLISH → README.en.md**](README.en.md)
+> # 🇷🇺 Русский · [🇬🇧 English](README.en.md) · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
 Всё, что нужно блогеру-партнёру Monty, чтобы начать: готовые тексты, брендовые ассеты и ролики.
 

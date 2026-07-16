@@ -1,6 +1,6 @@
 # Monty Affiliate — Asset Pack
 
-> # 🇬🇧 [**READ IN ENGLISH → README.en.md**](README.en.md)
+> # 🇷🇺 Русский · [🇬🇧 English](README.en.md) · [🇰🇷 한국어](README.ko.md) · [🇨🇳 中文](README.zh.md) · [🇪🇸 Español](README.es.md)
 
 Брендовые ассеты для партнёров-блогеров: статика (SVG, RU / EN) + готовые ролики (`video/`, до 5 языков).
 
