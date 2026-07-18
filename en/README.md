@@ -18,7 +18,7 @@ Start with [promo-kit.md](promo-kit.md) - positioning, ready-made copy and how t
 
 ## How it works
 
-You get a personal link `monty.fast/r/YOUR_CODE` and a coupon. Every customer who arrives through them and pays for Monty earns you a commission - **30% of every payment, for life**, as long as they keep paying. Larger partners get a higher rate.
+You get a personal link `monty.fast/r/YOUR_CODE` and a coupon. Every customer who arrives through them and pays for Monty earns you a commission - **25% of every payment, for life**, as long as they keep paying. Your rate climbs by tier up to 30%, and you earn an extra 5% on top from any partners you invite.
 
 Always include your link or code: without them, payments don't credit to you.
 

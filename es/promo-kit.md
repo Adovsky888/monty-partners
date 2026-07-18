@@ -6,7 +6,7 @@ Material listo para partners influencers. Copia, pon tu código, publica.
 
 Tu enlace: `monty.fast/r/YOUR_CODE`
 Tu cupón: `YOUR_CODE` (le da un bono de bienvenida a quien te ve)
-Te llevas el 30% de cada pago del cliente que traes, de por vida, mientras siga pagando.
+Te llevas el 25% de cada pago del cliente que traes, de por vida, mientras siga pagando (hasta el 30% por nivel), más un 5% de los partners que invites.
 
 ---
 

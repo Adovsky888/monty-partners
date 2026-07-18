@@ -6,7 +6,7 @@ Ready-to-use materials for influencer partners. Copy, drop in your code, post.
 
 Your link: `monty.fast/r/YOUR_CODE`
 Your coupon: `YOUR_CODE` (gives the viewer a starter bonus)
-You earn 30% of every payment from customers you bring - for life, as long as they pay.
+You earn 25% of every payment from the customer you bring - for life, as long as they pay (rising to 30% by tier), plus 5% more from partners you invite.
 
 ---
 

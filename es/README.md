@@ -20,7 +20,7 @@ Los vídeos también tienen versión en español - usa los archivos con `-es-` e
 
 ## Cómo funciona
 
-Recibes un enlace personal `monty.fast/r/YOUR_CODE` y un cupón. Por cada cliente que llegue por ellos y pague Monty te llevas comisión: **el 30% de cada pago, de por vida**, mientras el cliente siga pagando. Los partners grandes tienen un porcentaje mayor.
+Recibes un enlace personal `monty.fast/r/YOUR_CODE` y un cupón. Por cada cliente que llegue por ellos y pague Monty te llevas comisión: **el 25% de cada pago, de por vida**, mientras el cliente siga pagando. Tu porcentaje sube por nivel hasta el 30%, y además te llevas un 5% extra de cualquier partner que invites.
 
 Pon tu enlace o tu código en todas partes: sin ellos, los pagos no se te acreditan.
 
