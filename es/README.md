@@ -24,7 +24,7 @@ Recibes un enlace personal `monty.fast/r/YOUR_CODE` y un cupón. Por cada client
 
 Pon tu enlace o tu código en todas partes: sin ellos, los pagos no se te acreditan.
 
-Las condiciones vigentes y el registro están en [monty.fast](https://monty.fast). Dudas: team@monty.fast.
+Las condiciones vigentes y el registro están en [monty.fast](https://monty.fast). Dudas: [@Montyagent](https://t.me/Montyagent) en Telegram o team@monty.fast.
 
 ## Uso de los recursos
 

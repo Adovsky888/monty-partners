@@ -24,7 +24,7 @@ Monty 파트너가 시작하는 데 필요한 모든 것: 바로 쓰는 카피, 
 
 어디에나 본인 링크나 코드를 넣으세요. 없으면 결제가 집계되지 않습니다.
 
-최신 약관과 가입은 [monty.fast](https://monty.fast)에서. 문의: team@monty.fast.
+최신 약관과 가입은 [monty.fast](https://monty.fast)에서. 문의: 텔레그램 [@Montyagent](https://t.me/Montyagent) 또는 team@monty.fast.
 
 ## 에셋 사용
 

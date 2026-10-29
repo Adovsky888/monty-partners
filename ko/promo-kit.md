@@ -176,4 +176,4 @@ monty.fast/r/YOUR_CODE
 ## 연락처
 
 별도 크리에이티브, 최상위 조건, 대형 파트너 공동 마케팅은 수동으로 협의합니다 (제휴 매니저 연락처).
-정산 규정과 어뷰징 방지: monty.fast의 제휴 약관 페이지. 문의는 team@monty.fast.
+정산 규정과 어뷰징 방지: monty.fast의 제휴 약관 페이지. 문의는 텔레그램 [@Montyagent](https://t.me/Montyagent) 또는 team@monty.fast.

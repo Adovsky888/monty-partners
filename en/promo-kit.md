@@ -176,4 +176,4 @@ Brand: banana `#FFD21E`, ink `#161512`, cream `#FBF7EF`, purple `#6C4DF6`, coral
 ## Contact
 
 Custom creatives, top-tier terms, co-marketing for large partners - approved manually (affiliate manager contact).
-Payout rules and anti-abuse: the affiliate terms page on monty.fast. Questions - team@monty.fast.
+Payout rules and anti-abuse: the affiliate terms page on monty.fast. Questions: [@Montyagent](https://t.me/Montyagent) on Telegram, or team@monty.fast.

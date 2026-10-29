@@ -176,4 +176,4 @@ Marca: banana `#FFD21E`, ink `#161512`, cream `#FBF7EF`, morado `#6C4DF6`, coral
 ## Contacto
 
 Creatividades fuera de lo estándar, condiciones top y co-marketing para partners grandes se aprueban a mano (contacto del manager de la partnership).
-Reglas de pago y anti-abuso: la página de condiciones de la partnership en monty.fast. Dudas: team@monty.fast.
+Reglas de pago y anti-abuso: la página de condiciones de la partnership en monty.fast. Dudas: [@Montyagent](https://t.me/Montyagent) en Telegram o team@monty.fast.

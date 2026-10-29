@@ -176,4 +176,4 @@ monty.fast/r/YOUR_CODE
 ## 联系我们
 
 有争议的创意、更高的分成条件、大体量合作伙伴的联合营销，都走人工沟通确认（联系联盟经理）。
-结算规则和反作弊：见 monty.fast 上的联盟条款页。有问题联系 team@monty.fast。
+结算规则和反作弊：见 monty.fast 上的联盟条款页。有问题联系 Telegram [@Montyagent](https://t.me/Montyagent) 或 team@monty.fast。

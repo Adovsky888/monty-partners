@@ -24,7 +24,7 @@ Monty 合作伙伴上手所需的一切：现成文案、品牌素材和成片�
 
 到处都要带上你的链接或优惠码：没有它们，付款不会算到你头上。
 
-最新条款和注册在 [monty.fast](https://monty.fast)。有问题：team@monty.fast。
+最新条款和注册在 [monty.fast](https://monty.fast)。有问题：Telegram [@Montyagent](https://t.me/Montyagent) 或 team@monty.fast。
 
 ## 素材使用
 

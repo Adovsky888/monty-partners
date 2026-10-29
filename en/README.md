@@ -22,7 +22,7 @@ You get a personal link `monty.fast/r/YOUR_CODE` and a coupon. Every customer wh
 
 Always include your link or code: without them, payments don't credit to you.
 
-Current terms and signup are on [monty.fast](https://monty.fast). Questions: team@monty.fast.
+Current terms and signup are on [monty.fast](https://monty.fast). Questions: [@Montyagent](https://t.me/Montyagent) on Telegram, or team@monty.fast.
 
 ## Using the assets
 

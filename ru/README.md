@@ -22,7 +22,7 @@
 
 Везде ставь свою ссылку или код: без них оплата не засчитается.
 
-Актуальные условия и регистрация - на [monty.fast](https://monty.fast). Вопросы: team@monty.fast.
+Актуальные условия и регистрация - на [monty.fast](https://monty.fast). Вопросы: [@Montyagent](https://t.me/Montyagent) в Telegram или team@monty.fast.
 
 ## Использование ассетов
 
