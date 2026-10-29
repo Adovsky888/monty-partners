@@ -25,7 +25,11 @@
     <stop offset="0" stop-color="#6C4DF6" stop-opacity="0.85"/>
     <stop offset="0.55" stop-color="#6C4DF6" stop-opacity="0.22"/>
     <stop offset="1" stop-color="#6C4DF6" stop-opacity="0"/>
-  </radialGradient></defs>
+  </radialGradient>
+  <filter id="desat" color-interpolation-filters="sRGB">
+    <feColorMatrix type="saturate" values="0.18"/>
+    <feComponentTransfer><feFuncR type="linear" slope="0.82"/><feFuncG type="linear" slope="0.82"/><feFuncB type="linear" slope="0.82"/></feComponentTransfer>
+  </filter></defs>
 <rect width="1080" height="1650" fill="#0B0A09"/><circle cx="900" cy="140" r="420" fill="url(#gViolet)" opacity="0.5"/><circle cx="140" cy="1500" r="460" fill="url(#gBanana)" opacity="0.45"/><rect width="1080" height="1650" filter="url(#grain)" opacity="0.055"/>
 <g transform="translate(64,58) scale(0.359375)">
     <circle cx="30" cy="52" r="19" fill="#FBF7EF"/><circle cx="98" cy="52" r="19" fill="#FBF7EF"/>
