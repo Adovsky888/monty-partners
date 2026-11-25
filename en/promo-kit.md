@@ -140,7 +140,7 @@ Want the same - my code YOUR_CODE gives you a starter bonus:
 
 ## 8. FAQ (what your audience will ask)
 
-- **Is it paid?** Free start (credits/bananas), then a plan. Bonus with the code.
+- **Is it paid?** First 3 videos free, then a paid plan. 30% off your first payment with the code.
 - **Do I need editing skills?** No. That's the point - Monty edits for you.
 - **Which platforms?** Posts to the main socials (expanding as integrations ship).
 - **Does it fully replace an editor?** The grind - yes. Complex authorial edits - it helps, you steer.

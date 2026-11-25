@@ -140,7 +140,7 @@ Ahora subo el material crudo a Monty y la IA lo monta: cortes, subtítulos, mús
 
 ## 8. FAQ (lo que te va a preguntar tu audiencia)
 
-- **¿Es de pago?** Hay un inicio gratis (créditos/bananas) y después vas por plan. Con el código, bono.
+- **¿Es de pago?** Tus primeros 3 videos gratis, después un plan de pago. Con el código, 30% de descuento en tu primer pago.
 - **¿Necesito saber editar?** No. De eso se trata, Monty edita por ti.
 - **¿En qué plataformas publica?** En las redes principales (se amplía a medida que salen las integraciones).
 - **¿Reemplaza del todo a un editor?** La parte rutinaria, sí. El montaje de autor complejo lo apoya, pero mandas tú.
